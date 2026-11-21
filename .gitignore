@@ -1,0 +1,309 @@
+# ============================================
+# OS / System
+# ============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo
+*~
+.directory
+
+# ============================================
+# IDEs / Editors
+# ============================================
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+*.launch
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+*~
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.userosscache
+*.sln.docstates
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+# Eclipse
+.classpath
+.project
+.settings/
+# Vim / Emacs
+*.swp
+*.swo
+*~
+.#*
+\#*#
+.\#*
+
+# ============================================
+# Environment / Secrets
+# ============================================
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+*.pem
+*.key
+*.p12
+secrets.json
+credentials.json
+
+# ============================================
+# Node.js / JavaScript / TypeScript
+# ============================================
+node_modules/
+dist/
+build/
+out/
+.next/
+.nuxt/
+.output/
+.cache/
+coverage/
+.nyc_output/
+*.tsbuildinfo
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.pnp
+.pnp.js
+
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+dist/
+build/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+.coverage
+.coverage.*
+htmlcov/
+.ipynb_checkpoints/
+*.egg
+MANIFEST
+
+# ============================================
+# Java / JVM
+# ============================================
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+target/
+.gradle/
+.mvn/
+mvnw
+mvnw.cmd
+hs_err_pid*
+
+# ============================================
+# C / C++
+# ============================================
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.out
+*.elf
+*.pdb
+*.dSYM/
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+compile_commands.json
+Makefile
+config.log
+config.status
+autom4te.cache/
+*.la
+*.lo
+.libs/
+*.mod
+*.ilk
+*.idb
+*.pdb
+*.sdf
+*.opensdf
+*.vc.db
+*.vc.opendb
+
+# ============================================
+# Rust
+# ============================================
+target/
+Cargo.lock   # only for libraries
+*.rs.bk
+rust-analyzer.toml
+
+# ============================================
+# Go
+# ============================================
+*.exe
+*.test
+*.out
+vendor/
+go.work.sum
+
+# ============================================
+# .NET / C#
+# ============================================
+bin/
+obj/
+*.user
+*.suo
+*.sdf
+*.userosscache
+*.sln.docstates
+TestResults/
+*.DotSettings.user
+packages/
+
+# ============================================
+# Ruby
+# ============================================
+*.gem
+.bundle/
+vendor/bundle/
+Gemfile.lock
+.ruby-version
+
+# ============================================
+# PHP
+# ============================================
+vendor/
+composer.phar
+*.cache
+.phpunit.result.cache
+
+# ============================================
+# Swift / iOS / Xcode
+# ============================================
+*.xcuserstate
+*.xcscmblueprint
+xcuserdata/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# ============================================
+# Android
+# ============================================
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+build/
+.gradle/
+local.properties
+captures/
+.externalNativeBuild
+.cxx/
+
+# ============================================
+# Docker
+# ============================================
+docker-compose.override.yml
+*.dockerfile
+
+# ============================================
+# Terraform
+# ============================================
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform/
+.terraform.lock.hcl
+
+# ============================================
+# Databases
+# ============================================
+*.sqlite
+*.sqlite3
+*.db
+*.mdb
+*.accdb
+
+# ============================================
+# Logs
+# ============================================
+*.log
+logs/
+log/
+
+# ============================================
+# Build / Temp / Cache
+# ============================================
+tmp/
+temp/
+cache/
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+
+# ============================================
+# Testing / Coverage
+# ============================================
+coverage/
+.nyc_output/
+*.lcov
+*.cover
+*.coverprofile
+test-results/
+
+# ============================================
+# Misc
+# ============================================
+*.min.js
+*.min.css
+*.map
+*.swp
+*.swo
+.DS_Store
+*.DS_Store
